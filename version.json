@@ -1,17 +1,17 @@
 {
-    "versao":  "0.13.1",
+    "versao":  "0.13.2",
     "notas":  "",
     "arquivos":  {
                      "2024":  {
-                                  "url":  "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.1/BEMETA-0.13.1-2024.zip",
+                                  "url":  "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.2/BEMETA-0.13.2-2024.zip",
                                   "sha256":  "274913801ad118d6c57a1d3017737f5dd36a2731c3fdb614cbedcb74c70f8f74"
                               },
                      "2025":  {
-                                  "url":  "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.1/BEMETA-0.13.1-2025.zip",
+                                  "url":  "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.2/BEMETA-0.13.2-2025.zip",
                                   "sha256":  "60e01fe5f3c1e94772e1ccbda5e1794221e146ea896d770918aeb04e30173b14"
                               },
                      "2026":  {
-                                  "url":  "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.1/BEMETA-0.13.1-2026.zip",
+                                  "url":  "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.2/BEMETA-0.13.2-2026.zip",
                                   "sha256":  "c2f13a715efbd73ddd2940ccdca587084077a3a35e046706f5bc38f528c9ce6e"
                               }
                  }
