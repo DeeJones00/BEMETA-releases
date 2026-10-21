@@ -1,18 +1,18 @@
 {
-  "versao": "0.13.4",
-  "notas": "Novos botoes Inclinar Tubo e Lancar Tags; Titulo de pagina virou Organizar Viewports (com Numerar Viewports); Cotar projeto v2.0.2; Emissao de pranchas v1.10.0 (pastas ja preenchidas); melhorias nas Ferramentas MEP.",
+  "versao": "0.13.5",
+  "notas": "Lancar Tags v2.7.0: nova aba Configuracoes (Padrao BEMETA ou Personalizado), familias de tag de tubo carregadas do proprio plugin, escopo Elementos selecionados e configuracoes gravadas no projeto.",
   "arquivos": {
     "2024": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.4/BEMETA-0.13.4-2024.zip",
-      "sha256": "28261c20f2ee4c9ae17925849a1d0f094702d1fc9cb2bf6f8abffa70fd70d04f"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.5/BEMETA-0.13.5-2024.zip",
+      "sha256": "0ae582e45e3cf3444d9a23c639f9d5227059c80c773b1ad0d2c5d680e52717c9"
     },
     "2025": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.4/BEMETA-0.13.4-2025.zip",
-      "sha256": "3df7998cf18a3f4a45117e235980a5f8e1ecfdc7ce034eb69d81e1513025f015"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.5/BEMETA-0.13.5-2025.zip",
+      "sha256": "9987f0ac54a50c48434d556215479c9abc99345260e2290fcae386f5df505d35"
     },
     "2026": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.4/BEMETA-0.13.4-2026.zip",
-      "sha256": "d5710c330a012801e61da66b18d8d4a43de2e32a4b8326f64631586ca427691d"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.5/BEMETA-0.13.5-2026.zip",
+      "sha256": "81acc1be109ce7044449cc82f3f61f2c217a8bc8b45fe29dd86d344afe1bfaef"
     }
   }
 }
