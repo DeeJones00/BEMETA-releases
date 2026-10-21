@@ -1,18 +1,18 @@
 {
-    "versao":  "0.13.3",
-    "notas":  "",
-    "arquivos":  {
-                     "2024":  {
-                                  "url":  "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.3/BEMETA-0.13.3-2024.zip",
-                                  "sha256":  "c28c4101e59010da0acece02977f19fadf44bca1a306033f2b0f4368508c9ab7"
-                              },
-                     "2025":  {
-                                  "url":  "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.3/BEMETA-0.13.3-2025.zip",
-                                  "sha256":  "3c93e91d84f1789cc41811a2503255fd4640826761d381bc01cc5201ea51652c"
-                              },
-                     "2026":  {
-                                  "url":  "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.3/BEMETA-0.13.3-2026.zip",
-                                  "sha256":  "d5919cc3fbf9f7b55f78f9049546be875f20163f295546b9a97cb258e88172d7"
-                              }
-                 }
+  "versao": "0.13.4",
+  "notas": "Novos botoes Inclinar Tubo e Lancar Tags; Titulo de pagina virou Organizar Viewports (com Numerar Viewports); Cotar projeto v2.0.2; Emissao de pranchas v1.10.0 (pastas ja preenchidas); melhorias nas Ferramentas MEP.",
+  "arquivos": {
+    "2024": {
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.4/BEMETA-0.13.4-2024.zip",
+      "sha256": "28261c20f2ee4c9ae17925849a1d0f094702d1fc9cb2bf6f8abffa70fd70d04f"
+    },
+    "2025": {
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.4/BEMETA-0.13.4-2025.zip",
+      "sha256": "3df7998cf18a3f4a45117e235980a5f8e1ecfdc7ce034eb69d81e1513025f015"
+    },
+    "2026": {
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.4/BEMETA-0.13.4-2026.zip",
+      "sha256": "d5710c330a012801e61da66b18d8d4a43de2e32a4b8326f64631586ca427691d"
+    }
+  }
 }
