@@ -1,18 +1,18 @@
 {
-  "versao": "0.13.5",
-  "notas": "Lancar Tags v2.7.0: nova aba Configuracoes (Padrao BEMETA ou Personalizado), familias de tag de tubo carregadas do proprio plugin, escopo Elementos selecionados e configuracoes gravadas no projeto.",
+  "versao": "0.13.6",
+  "notas": "Novo botao Calculadora (dimensionamento hidraulico). Novos botoes Clean Out e Deletar trecho em Ferramentas MEP; Desconectar v1.4.0 divide o sistema de tubulacao. Texto das novidades com barra de rolagem.",
   "arquivos": {
     "2024": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.5/BEMETA-0.13.5-2024.zip",
-      "sha256": "0ae582e45e3cf3444d9a23c639f9d5227059c80c773b1ad0d2c5d680e52717c9"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.6/BEMETA-0.13.6-2024.zip",
+      "sha256": "2e0f231b2cfa32afd94fb20cfada0ed9941176091c9d20eda0c745793d75116d"
     },
     "2025": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.5/BEMETA-0.13.5-2025.zip",
-      "sha256": "9987f0ac54a50c48434d556215479c9abc99345260e2290fcae386f5df505d35"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.6/BEMETA-0.13.6-2025.zip",
+      "sha256": "6967b5e62705602766dda619bd6b8423e61656370a7bc4682dcb803eb71bcaf5"
     },
     "2026": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.5/BEMETA-0.13.5-2026.zip",
-      "sha256": "81acc1be109ce7044449cc82f3f61f2c217a8bc8b45fe29dd86d344afe1bfaef"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.6/BEMETA-0.13.6-2026.zip",
+      "sha256": "943059d395f776e2148d221559c4a68d6c99cca2df2544dabe9eeebb7ea2ff33"
     }
   }
 }
