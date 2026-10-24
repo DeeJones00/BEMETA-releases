@@ -1,18 +1,18 @@
 {
-  "versao": "0.13.6",
-  "notas": "Novo botao Calculadora (dimensionamento hidraulico). Novos botoes Clean Out e Deletar trecho em Ferramentas MEP; Desconectar v1.4.0 divide o sistema de tubulacao. Texto das novidades com barra de rolagem.",
+  "versao": "0.13.7",
+  "notas": "Novo botao Ponto de Inspecao. Clean Out com janela Simples/Duplo e altura H. Deletar trecho funciona com conduite e bandeja. Emissao de pranchas com botao Renumerar e selecao em grupo. Janela de Atualizacoes maior.",
   "arquivos": {
     "2024": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.6/BEMETA-0.13.6-2024.zip",
-      "sha256": "2e0f231b2cfa32afd94fb20cfada0ed9941176091c9d20eda0c745793d75116d"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.7/BEMETA-0.13.7-2024.zip",
+      "sha256": "5856e32dd68f603b4cb81a3c6f55940d947f7d3607cb648770e4a1a4f7690ee3"
     },
     "2025": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.6/BEMETA-0.13.6-2025.zip",
-      "sha256": "6967b5e62705602766dda619bd6b8423e61656370a7bc4682dcb803eb71bcaf5"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.7/BEMETA-0.13.7-2025.zip",
+      "sha256": "d3be83fb36ea84c413c42a5ed5bffc1f665e30aa837bcb54bb207f06156542a9"
     },
     "2026": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.6/BEMETA-0.13.6-2026.zip",
-      "sha256": "943059d395f776e2148d221559c4a68d6c99cca2df2544dabe9eeebb7ea2ff33"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.7/BEMETA-0.13.7-2026.zip",
+      "sha256": "f80b4a5f1234219cc99fdb0b72413c7b6b1588f94be028539b10f6d8ab402c60"
     }
   }
 }
