@@ -1,18 +1,18 @@
 {
-  "versao": "0.13.7",
-  "notas": "Novo botao Ponto de Inspecao. Clean Out com janela Simples/Duplo e altura H. Deletar trecho funciona com conduite e bandeja. Emissao de pranchas com botao Renumerar e selecao em grupo. Janela de Atualizacoes maior.",
+  "versao": "0.13.8",
+  "notas": "Novo botão Curva de Transposição (Ferramentas MEP): desvio em tubulação com joelhos de 45° e 90°, a partir de 3 cliques. Organizar Viewports v2.0.1: mensagens de resultado no padrão BEMETA. Clean Out: novos desenhos de Simples e Duplo na janela.",
   "arquivos": {
     "2024": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.7/BEMETA-0.13.7-2024.zip",
-      "sha256": "5856e32dd68f603b4cb81a3c6f55940d947f7d3607cb648770e4a1a4f7690ee3"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.8/BEMETA-0.13.8-2024.zip",
+      "sha256": "8c3a97015367be890cfc05ba468b180679c30aee68f116f384a7173758017c36"
     },
     "2025": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.7/BEMETA-0.13.7-2025.zip",
-      "sha256": "d3be83fb36ea84c413c42a5ed5bffc1f665e30aa837bcb54bb207f06156542a9"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.8/BEMETA-0.13.8-2025.zip",
+      "sha256": "e1fca3a14da43135279a71722feb1489b37cf1c2655c27b1aee92f0651254bb2"
     },
     "2026": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.7/BEMETA-0.13.7-2026.zip",
-      "sha256": "f80b4a5f1234219cc99fdb0b72413c7b6b1588f94be028539b10f6d8ab402c60"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.8/BEMETA-0.13.8-2026.zip",
+      "sha256": "b9ab76a7ef766ecd0befb49df32b85fdedb2d21eb8e48e86b32de96f50b71f88"
     }
   }
 }
