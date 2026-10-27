@@ -1,18 +1,18 @@
 {
-  "versao": "0.13.8",
-  "notas": "Novo botão Curva de Transposição (Ferramentas MEP): desvio em tubulação com joelhos de 45° e 90°, a partir de 3 cliques. Organizar Viewports v2.0.1: mensagens de resultado no padrão BEMETA. Clean Out: novos desenhos de Simples e Duplo na janela.",
+  "versao": "0.13.9",
+  "notas": "Lançar Tags v2.8.0: coluna passa a ser a prumada inteira (só recebe tag se tem a altura mínima e atravessa a laje), com novos campos de altura mínima, espessura da laje e perninha. Colunas de descarga e tipos com \"não listar\" ficam sem tag. Tubos de água com tag de texto acima/abaixo. Elétrica com escopo Projeto inteiro. Pintar MEP v2.0: abas Elétrica e Hidráulica, com pintura dos tubos por material. Painel Modelagem reorganizado. Atualizações: a janela mostra a descrição do que mudou na última versão.",
   "arquivos": {
     "2024": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.8/BEMETA-0.13.8-2024.zip",
-      "sha256": "8c3a97015367be890cfc05ba468b180679c30aee68f116f384a7173758017c36"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.9/BEMETA-0.13.9-2024.zip",
+      "sha256": "effb49b9a9f59eaa1069fa836824378314f6c3a8e728cf2fbf1d3bcbf10a59a3"
     },
     "2025": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.8/BEMETA-0.13.8-2025.zip",
-      "sha256": "e1fca3a14da43135279a71722feb1489b37cf1c2655c27b1aee92f0651254bb2"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.9/BEMETA-0.13.9-2025.zip",
+      "sha256": "a30276cebce2112e70e56c856a4da40141beea4b23383e4331b22e77270f2be6"
     },
     "2026": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.8/BEMETA-0.13.8-2026.zip",
-      "sha256": "b9ab76a7ef766ecd0befb49df32b85fdedb2d21eb8e48e86b32de96f50b71f88"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.9/BEMETA-0.13.9-2026.zip",
+      "sha256": "9b85be9960df3ec33238cfd2ee2187d46b8f3548fd587fd780a891556448d2a7"
     }
   }
 }
