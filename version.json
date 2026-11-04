@@ -1,18 +1,18 @@
 {
-  "versao": "0.13.9",
-  "notas": "Lançar Tags v2.8.0: coluna passa a ser a prumada inteira (só recebe tag se tem a altura mínima e atravessa a laje), com novos campos de altura mínima, espessura da laje e perninha. Colunas de descarga e tipos com \"não listar\" ficam sem tag. Tubos de água com tag de texto acima/abaixo. Elétrica com escopo Projeto inteiro. Pintar MEP v2.0: abas Elétrica e Hidráulica, com pintura dos tubos por material. Painel Modelagem reorganizado. Atualizações: a janela mostra a descrição do que mudou na última versão.",
+  "versao": "0.14.0",
+  "notas": "Novos botões Detalhar vista 3D e Replicar modelagem. Lançar tags v3.2.3, Calculadora v3.3.0 (aba Tubulação e Gás reescrito), Cotar projeto v2.1.0, Texto do DWG v1.4, Criar corte v5.7.1, Configurações v2.6, Emissão de pranchas v1.11.1 e Duplicar vista v5. Visual novo nas janelas e ícones para o Revit escuro.",
   "arquivos": {
     "2024": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.9/BEMETA-0.13.9-2024.zip",
-      "sha256": "effb49b9a9f59eaa1069fa836824378314f6c3a8e728cf2fbf1d3bcbf10a59a3"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.0/BEMETA-0.14.0-2024.zip",
+      "sha256": "5178451ba4fb9b8827f345033437d90337f8ccbfac535829309f6c38573f7c6e"
     },
     "2025": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.9/BEMETA-0.13.9-2025.zip",
-      "sha256": "a30276cebce2112e70e56c856a4da40141beea4b23383e4331b22e77270f2be6"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.0/BEMETA-0.14.0-2025.zip",
+      "sha256": "e58b0d8b6c4aa4afb917830dc889d5cb5609efceab640bb36566908863ef942f"
     },
     "2026": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.13.9/BEMETA-0.13.9-2026.zip",
-      "sha256": "9b85be9960df3ec33238cfd2ee2187d46b8f3548fd587fd780a891556448d2a7"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.0/BEMETA-0.14.0-2026.zip",
+      "sha256": "f1e43e0680fe17dfb6fa20c173aab9e836d6d2628c55e89e1f9c9af5c8765731"
     }
   }
 }
