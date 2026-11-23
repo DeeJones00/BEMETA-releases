@@ -1,18 +1,18 @@
 {
-  "versao": "0.14.1",
-  "notas": "Quadros Elétricos 1.8.1 (lê o unifilar de OF, JC e ricaun, DR de grupo, Lançar disjuntores, Limpar quadro e Personalizar com arrasto); Calculadora 3.6.0 (ventilação, caixa de gordura v4, fossa pela NBR 17076:2024 ou 7229+13969 com desenho e Criar Detalhe); Replicar modelagem 1.19.0 (Varrer outros pavimentos, Limpar sobrepostos, Duplicar grupo, cor do ambiente); Pintar MEP 2.1 (escopo e Remover pintura); correções no Desconectar e no Lançar tags.",
+  "versao": "0.14.2",
+  "notas": "Calculadora v3.9.0 (vala de infiltração, Intensidade pluvial, boiler), Lançar tags v3.3.5, Inclinar Tubo v1.5.0, Replicar modelagem v1.20.0, Transposição v1.2.0, novos botões Teclas de iluminação e Linhas de respiro, Gerenciar circuitos e nova organização da faixa.",
   "arquivos": {
     "2024": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.1/BEMETA-0.14.1-2024.zip",
-      "sha256": "897366c69fcae6276e348195432a6f6d810de4a4e51d3c9ba81483700d21e568"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.2/BEMETA-0.14.2-2024.zip",
+      "sha256": "ceb42b11ee3ad5341bc41f085fcdbd0f6b869a50ff81eb834392a3d7555edfda"
     },
     "2025": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.1/BEMETA-0.14.1-2025.zip",
-      "sha256": "f40094f899bafe83ddd51e38e42245f6b16aaa36031127c95a0204645856ea17"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.2/BEMETA-0.14.2-2025.zip",
+      "sha256": "32d176e5b2a099f151412d02472926ce8cc2425d5785636f2df162ba0be422fd"
     },
     "2026": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.1/BEMETA-0.14.1-2026.zip",
-      "sha256": "b5daf158a2cb7f971318ac5ed80cd395d58418367d1ebf960f5001529aeec47f"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.2/BEMETA-0.14.2-2026.zip",
+      "sha256": "0e3a9874ebe05bcc55589d3d2ec67545bb315c16f6442a46da2a5876038d66ca"
     }
   }
 }
