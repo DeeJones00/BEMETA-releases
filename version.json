@@ -1,18 +1,18 @@
 {
-  "versao": "0.14.2",
-  "notas": "Calculadora v3.9.0 (vala de infiltração, Intensidade pluvial, boiler), Lançar tags v3.3.5, Inclinar Tubo v1.5.0, Replicar modelagem v1.20.0, Transposição v1.2.0, novos botões Teclas de iluminação e Linhas de respiro, Gerenciar circuitos e nova organização da faixa.",
+  "versao": "0.14.3",
+  "notas": "Faixa Modelagem reorganizada (Elétrica, Hidráulica, Estrutural); novos botões Adaptadores PVC/BSP e Criar ventilação; Numerar colunas v20; Emissão de pranchas v1.12.0 com aba Imagens e exportação de IFC.",
   "arquivos": {
     "2024": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.2/BEMETA-0.14.2-2024.zip",
-      "sha256": "ceb42b11ee3ad5341bc41f085fcdbd0f6b869a50ff81eb834392a3d7555edfda"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.3/BEMETA-0.14.3-2024.zip",
+      "sha256": "20dfc402f13931d7534277bd499fa9762e553db10a2091501aa6d833d8d7ce34"
     },
     "2025": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.2/BEMETA-0.14.2-2025.zip",
-      "sha256": "32d176e5b2a099f151412d02472926ce8cc2425d5785636f2df162ba0be422fd"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.3/BEMETA-0.14.3-2025.zip",
+      "sha256": "9bc559ef6324fbe780ade2a2db251d4243531b38f89602c3243062bef9f2cef1"
     },
     "2026": {
-      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.2/BEMETA-0.14.2-2026.zip",
-      "sha256": "0e3a9874ebe05bcc55589d3d2ec67545bb315c16f6442a46da2a5876038d66ca"
+      "url": "https://github.com/DeeJones00/BEMETA-releases/releases/download/v0.14.3/BEMETA-0.14.3-2026.zip",
+      "sha256": "1e06ceae101f24f997ea1158d248344912df0f4cec7a18048b0fb2ba703ffc18"
     }
   }
 }
